@@ -5,7 +5,7 @@ export function HomeTpl() {
     <>
       <main>
         <h2>Welcome to the Pokemon Picker!</h2>
-        <p>You will soon be able to match your personality type to a Pokemon.</p>
+        <p>You will soon be able to match your personality type to a Pokémon.</p>
         <p>But for now, you can just randomely pick a Pokemon by clicking the button below</p>
       </main>
       <nav>
